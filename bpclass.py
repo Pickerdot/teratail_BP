@@ -3,7 +3,7 @@ import numpy as np
 from functions import sigmoid, sigmoid_back
 
 
-lr = 0.01
+lr = 0.1
 
 
 class Loss:
